@@ -11,6 +11,7 @@
 @interface AppDelegate ()
 
 @property (strong, nonatomic) NSMutableArray * array;
+@property (strong, nonatomic) UIButton * button;
 
 @end
 
