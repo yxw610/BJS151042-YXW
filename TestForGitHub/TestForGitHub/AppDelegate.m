@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 
+@property (strong, nonatomic) NSMutableArray * array;
+
 @end
 
 @implementation AppDelegate
