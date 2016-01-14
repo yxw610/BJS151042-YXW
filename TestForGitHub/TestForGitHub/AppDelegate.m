@@ -10,7 +10,7 @@
 
 @interface AppDelegate ()
 
-@property (strong, nonatomic) NSMutableArray * array2;
+@property (strong, nonatomic) NSMutableArray * array;
 @property (strong, nonatomic) UIButton * button;
 @property (strong, nonatomic) UITextField *textField;
 
