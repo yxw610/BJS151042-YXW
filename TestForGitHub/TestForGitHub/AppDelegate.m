@@ -12,7 +12,8 @@
 
 @property (strong, nonatomic) NSMutableArray * array3;
 @property (strong, nonatomic) UIButton * button;
-@property (strong, nonatomic) UITextField *textField;
+@property (strong, nonatomic) UITextField *textField1;
+
 
 @end
 
